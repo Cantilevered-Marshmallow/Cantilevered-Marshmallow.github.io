@@ -25,6 +25,10 @@ h6 {
     font-weight: 700;
 }
 
+.marvel-device {
+    width: 70%;
+}
+
 .btn {
     color: #555555;
     border-color: white;
